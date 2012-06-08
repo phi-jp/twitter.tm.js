@@ -1,5 +1,12 @@
-/*
+/**
  * twitter.tm.js
+ * 
+ * @version     0.1.0
+ * @requires    tmlib.js v0.1.2
+ * https://github.com/phi1618/twitter.tm.js
+ * MIT licensed
+ * 
+ * Copyright (C) 2012 phi, http://tmlife.net
  */
 
 tm.twitter = tm.twitter || {};
